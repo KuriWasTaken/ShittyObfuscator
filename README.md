@@ -1,0 +1,2 @@
+# ShittyObfuscator
+Shitty lua obfuscator
